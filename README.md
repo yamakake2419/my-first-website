@@ -43,9 +43,9 @@
     <div class="container">
         <h1>ようこそ！</h1>
 
-        <p><strong>名前：</strong> <span>[自分の名前に置き換える]</span></p>
-        <p><strong>学部学科：</strong> <span>[自分の学科に置き換える]</span></p>
-        <p><strong>趣味：</strong> <span>[自分の趣味を入力]</span></p>
+        <p><strong>名前：</strong> <span>[山田翔]</span></p>
+        <p><strong>学部学科：</strong> <span>[日本大学理工学部　応用情報工学科]</span></p>
+        <p><strong>趣味：</strong> <span>[ゲーム、旅行]</span></p>
 
         <p>
             このページは私の最初のホームページです。<br>
