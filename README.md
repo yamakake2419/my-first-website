@@ -1,4 +1,3 @@
-# my-first-website
 <!DOCTYPE html>
 <html lang="ja">
 <head>
@@ -56,6 +55,4 @@
 
 </body>
 </html>
-Use code with caution.
-Html
 
