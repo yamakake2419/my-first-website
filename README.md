@@ -44,8 +44,8 @@
         <h1>ようこそ！</h1>
 
         <p><strong>名前：</strong> <span>[山田翔]</span></p>
-        <p><strong>学部学科：</strong> <span>[日本大学理工学部　応用情報工学科]</span></p>
-        <p><strong>趣味：</strong> <span>[ゲーム、旅行]</span></p>
+        <p><strong>学部学科：</strong> <span>[応用情報工学科]</span></p>
+        <p><strong>趣味：</strong> <span>[ゲーム]/span></p>
 
         <p>
             このページは私の最初のホームページです。<br>
@@ -55,4 +55,3 @@
 
 </body>
 </html>
-
